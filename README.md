@@ -4,7 +4,12 @@
 ---
 <p align="center">
   <img src="assets/images/some-kind-of-bird.png" width="300" height="200" alt="a bird">
+  <a href="https://buymeacoffee.com/horriblecpp">
+    <img src="assets/images/give-me-rent.gif" width="300" height="200" alt="a squidward">
+  </a>
 </p>
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-%E2%98%95-yellow?style=for-the-badge)](https://buymeacoffee.com/horriblecpp)
 
 ---
 
